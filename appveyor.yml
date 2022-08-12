@@ -35,7 +35,7 @@ deploy:
 notifications:
 - provider: Email
   to:
-  - yunietps@yahoo.com
+  - 185517001@qq.com
   subject: AppVeyor New Build Notice
   message: A new build has been placed in GitHub for xAnalyzer
   on_build_success: true
