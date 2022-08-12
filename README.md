@@ -1,7 +1,7 @@
 <p align="center"><img src ="images/header.png" /></p>
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ThunderCls/xAnalyzer/issues)
-[![Build Status](https://ci.appveyor.com/api/projects/status/6uabw25xqmkw6tat?svg=true)](https://ci.appveyor.com/project/ThunderCls/xanalyzer)
+[![Build status](https://ci.appveyor.com/api/projects/status/q83i7s9etrfynq71?svg=true)](https://ci.appveyor.com/project/qing666888/xanalyzer)
 [![GitHub release](https://img.shields.io/github/release/ThunderCls/xAnalyzer.svg?label=latest+release&maxAge=60)](https://github.com/ThunderCls/xAnalyzer/releases/latest)
 [![Github Releases](https://img.shields.io/github/downloads/ThunderCls/xAnalyzer/latest/total.svg?label=latest+downloads)](https://github.com/ThunderCls/xAnalyzer/releases/latest)
 [![Github All Releases](https://img.shields.io/github/downloads/ThunderCls/xAnalyzer/total.svg?label=total+downloads)](https://github.com/ThunderCls/xAnalyzer/releases)
