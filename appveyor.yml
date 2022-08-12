@@ -30,7 +30,7 @@ deploy:
   tag: $(appveyor_build_version)
   release: xAnalyzer x86x64
   auth_token:
-    secure: UVTCxd83h/BlIDEU+KD6cVK8Vy4pnWYW+wYuiCVXcDxohCibivP97omhiMUMPRVe
+    secure: JzT53Q7HunbgJDOPr7FBo5YYSMmbkIX9L03YrYXJTG7fiF7xIwwi1haODAE4VInM
   artifact: xAnalyzer.dp32,xAnalyzer.dp64,apis_def
 notifications:
 - provider: Email
